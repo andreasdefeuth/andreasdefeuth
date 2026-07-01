@@ -1,4 +1,3 @@
-# Andreas de Feuth Grøn
 ### IT Architecture | Technical Operations | Football Analytics
 ---
 Hello 👋
