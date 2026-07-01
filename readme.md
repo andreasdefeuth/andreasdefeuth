@@ -6,4 +6,4 @@ My name is Andreas. I am an honest, curious, and open-minded individual, current
 
 I am enrolled at **Business Academy Aarhus**, pursuing a degree in **IT Architecture (EQF 6)** - a combination of business strategy, data management, and software engineering.
 
-Beyond my studies, I handle real-time data collection at **Genius Sports** and manage the IT infrastructure at **Immeo**'s office in Aarhus.
+Beyond my studies, I handle real-time **data collection** at **Genius Sports** and manage the **IT infrastructure** at **Immeo**'s office in Aarhus.
