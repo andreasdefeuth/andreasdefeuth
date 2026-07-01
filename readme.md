@@ -1,4 +1,4 @@
-** Hello 👋
+Hello 👋
 -
 My name is Andreas. I am an honest, curious, and open-minded individual, currently studying and working within IT and Football.
 -
