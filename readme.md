@@ -1,4 +1,4 @@
-IT Architecture | Technical Operations | Football Analytics | Knowledge Management
+IT Architecture | Football Analytics | Knowledge Management | Technical Operations
 ---
 **Hello** 👋
 
